@@ -1,0 +1,172 @@
+[01-Nov-2022 11:49:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 11:49:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 11:49:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2022 11:49:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2022 11:49:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/sharkbsc/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[01-Nov-2022 11:49:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/sharkbsc/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[01-Nov-2022 11:49:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[01-Nov-2022 11:49:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[01-Nov-2022 11:49:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[01-Nov-2022 11:49:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[01-Nov-2022 11:49:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustProxies' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[01-Nov-2022 11:49:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustProxies' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[01-Nov-2022 11:49:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Middleware\ValidateSignature' not found in /home/sharkbsc/public_html/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/ValidateSignature.php on line 7
+[01-Nov-2022 11:49:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Middleware\ValidateSignature' not found in /home/sharkbsc/public_html/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/ValidateSignature.php on line 7
+[01-Nov-2022 11:49:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/sharkbsc/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[01-Nov-2022 11:49:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/sharkbsc/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[01-Nov-2022 13:31:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2022 13:31:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2022 13:31:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2022 13:31:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2022 13:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 13:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 13:31:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 13:31:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 13:32:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2022 13:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 13:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 13:49:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 13:49:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/Authenticate.php on line 7
+[01-Nov-2022 13:49:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2022 13:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2022 13:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/sharkbsc/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[01-Nov-2022 13:49:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/sharkbsc/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[01-Nov-2022 13:49:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[01-Nov-2022 13:49:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[01-Nov-2022 13:49:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[01-Nov-2022 13:49:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[01-Nov-2022 13:49:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustProxies' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[01-Nov-2022 13:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustProxies' not found in /home/sharkbsc/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[01-Nov-2022 13:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Middleware\ValidateSignature' not found in /home/sharkbsc/public_html/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/ValidateSignature.php on line 7
+[01-Nov-2022 13:49:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Middleware\ValidateSignature' not found in /home/sharkbsc/public_html/app/Http/Middleware/ValidateSignature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/ValidateSignature.php on line 7
+[01-Nov-2022 13:49:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/sharkbsc/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[01-Nov-2022 13:49:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/sharkbsc/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7

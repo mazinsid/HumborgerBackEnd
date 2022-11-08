@@ -1,0 +1,40 @@
+[01-Nov-2022 11:48:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
+[01-Nov-2022 11:48:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
+[01-Nov-2022 13:27:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
+[01-Nov-2022 13:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
+[01-Nov-2022 13:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
+[01-Nov-2022 13:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
+[01-Nov-2022 13:27:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
+[01-Nov-2022 13:27:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
+[01-Nov-2022 13:48:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
+[01-Nov-2022 13:48:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sharkbsc/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sharkbsc/public_html/app/Console/Kernel.php on line 8
